@@ -73,7 +73,10 @@ Despite the changes in poverty rates, the per capita income for all states incre
 
 <h2>Screenshot Showing Data for Year Slicer Selection as 2001</h2>
 
-![Screenshot (1422)](https://github.com/Priy-Sharma/Power-Bi-Dashboard-/assets/161149109/aa631923-1c3a-4fad-8eeb-851a3413060e)
+
+![Screenshot (1422)](https://github.com/Priy-Sharma/Power-Bi-India-Transformation-2001-to-2011/assets/161149109/b8b2f933-b19a-4c11-8255-788be5d7a784)
+
+
 </br>
 <h3>Key Insights:</h3>
 <b> Matrix visualization Analysis: </b>
