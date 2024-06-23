@@ -45,7 +45,9 @@ These matrix visualizations will show the top 5 poor-performing states.
 </br>
 <h2>Screenshot Showing Data for Year Slicer Selection as ALL</h2>
 
-![Screenshot (1421)](https://github.com/Priy-Sharma/Power-Bi-Dashboard-/assets/161149109/a7083852-7d9b-4cca-8ef7-6c61b1708e8b)
+
+![Screenshot (1421)](https://github.com/Priy-Sharma/Power-Bi-India-Transformation-2001-to-2011/assets/161149109/465494c3-ab78-4685-95fb-1b10237f744c)
+
 
 </br>
 <h3>Key Insights:</h3>
